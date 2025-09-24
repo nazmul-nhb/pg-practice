@@ -2,9 +2,9 @@
   "name": "pg-practice",
   "version": "1.0.0",
   "description": "Practice PostgreSQL",
-  "main": "index.js",
+  "main": "db.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "commit": "nhb-commit"
   },
   "keywords": [
     "postgres",
