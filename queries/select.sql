@@ -12,4 +12,4 @@ SELECT * FROM students WHERE first_name ILIKE 'm_c%';
 
 -- LIMIT, OFFSET
 
-SELECT * FROM students LIMIT 8 OFFSET 0
+SELECT * FROM students LIMIT 8 OFFSET 0;
